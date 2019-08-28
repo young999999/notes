@@ -1,0 +1,24 @@
+1.腾讯云主机体验
+	1）129.204.152.74    JcAiLejC5J6I
+2.域名
+	findingway.xyz
+
+3.阿里云主机
+	47.98.53.232   远程密码835432 
+	root密码：Young19951006.
+
+4.百度云虚拟机
+	主机临时域名：young999999.gz01.bdysite.com；
+	独立控制面板：login.bcehost.com；
+	主机管理账号：young999999；
+	主机管理密码：123456；
+	FTP地址：young999999.ftp-gz01.bcehost.com；ftp://young999999:@young999999.ftp-gz01.bcehost.com:8010/
+	FTP端口号：8010；
+	FTP登录账号：young999999；
+	FTP密码：已发送至手机；
+	MySQL连接地址：b-m3yg7naiade89q.bch.rds.gz.baidubce.com；
+	MySQL端口号：3306；
+	MySQL数据库名：b_m3yg7naiade89q；
+	MySQL账号：b_m3yg7naiade89q；
+	MySQL密码：******；
+	PHPMyAdmin访问地址：http://pma.rds.gz.bce.baidu.com/phpmyadmin/index.php?						db=null&expires=null&sign=null&client_id=null；
